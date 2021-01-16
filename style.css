@@ -1,0 +1,28 @@
+body
+{
+background-size: cover;
+}
+.heading
+{
+font-size: 30px; width: 100%; box-shadow: 10px 10px 20px darkblue;margin-top: 0;font-family: 'Sofia', cursive;
+}
+#start
+{
+font-size: 20px;
+}
+canvas
+{
+border: 5px solid gray;margin-top: 100px;border-radius: 5px;
+}
+.footer
+{
+width: 100%;background-color: blue; color: white;bottom: 0;text-align: center;font-weight: bold;position: fixed;
+}
+#object_name
+{
+width: 250px;box-shadow: 10px 10px 15px cyan;border: 1px solid black;
+}
+#play
+{
+margin-top: 10px;margin-bottom: 10px;
+}
